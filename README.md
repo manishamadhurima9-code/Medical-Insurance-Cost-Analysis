@@ -1,4 +1,4 @@
-# Medical Insurance Data Analysis
+# Medical Insurance Data Analysis (using SQL & POWER BI)
 
 ## Project Overview
 
